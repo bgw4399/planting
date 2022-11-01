@@ -5,15 +5,15 @@
 # 
 
 # 기능
-## WEB
+## * WEB
 ```
 
 ```
-## PyQT
+## * PyQT
 ```
 
 ```
-## ARDUINO
+## * ARDUINO
 ```
 
 ```
