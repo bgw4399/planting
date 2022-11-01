@@ -18,9 +18,14 @@
 ![image](https://user-images.githubusercontent.com/104902657/199143120-6c3742a2-0aa6-448d-8374-bb6e9b54142a.png)
 
 ##  PyQT
-* 식물이 정상 범위 내에 있지 않다면 다음 그림처럼 시든 꽃과 어두운 화면이 나타난다. 이 때 
+* 식물이 정상 범위 내에 있다면 다음 그림처럼 밝은 꽃과 밝은 화면이 나타난다. 이 때 자동 모드라면 목표 수치 밑에 있는 숫자가 목표치로 자동으로 바뀌며 센서에 신호를 보낸다.
+![image](https://user-images.githubusercontent.com/104902657/199149547-3b698cb1-70a2-44b2-908c-36a05d5eeaa7.png)
+* 식물이 정상 범위 내에 있지 않다면 다음 그림처럼 시든 꽃과 어두운 화면이 나타난다.
+![image](https://user-images.githubusercontent.com/104902657/199149492-fa50e9a3-5959-4401-a760-4ce62355f8d7.png)
 * 자동 모드에서 +나 -를 누를 경우 다음과 같은 알람과 함께 수치가 바뀌지 않는다.
 ![image](https://user-images.githubusercontent.com/104902657/199144456-eb6bbb15-6b8d-46b2-a75d-e1aa52d5c44a.png)
+* 자동 모드를 누르면 수동 모드로 바뀌게 되는데 이 때는 +나 -를 직접 눌러 센서로 신호를 보낼 수 있다.
+![image](https://user-images.githubusercontent.com/104902657/199149293-354693cc-f47c-4c3e-a94b-d5588fa9f4ed.png)
 
 ##  ARDUINO
 *
