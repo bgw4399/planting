@@ -1,0 +1,113 @@
+/* leaf1 */
+
+.leaf1{
+position: absolute;
+width: 97px;
+height: 119px;
+left: 515px;
+top: 168px;
+}
+
+
+/* leaf2 */
+
+.leaf2{
+position: absolute;
+width: 96px;
+height: 119px;
+left: 672px;
+top: 168px;
+}
+
+
+/* leaf3 */
+
+.leaf3{
+position: absolute;
+width: 97px;
+height: 119px;
+left: 828px;
+top: 168px;
+}
+
+
+/* leaf4 */
+
+.leaf4{
+position: absolute;
+width: 97px;
+height: 118px;
+left: 515px;
+top: 310px;
+}
+
+
+/* leaf5 */
+
+.leaf5{
+position: absolute;
+width: 96px;
+height: 118px;
+left: 672px;
+top: 310px;
+}
+
+
+/* leaf6 */
+
+.leaf6{
+position: absolute;
+width: 97px;
+height: 118px;
+left: 828px;
+top: 310px;
+}
+
+
+/* leaf7 */
+
+.leaf7{
+position: absolute;
+width: 97px;
+height: 119px;
+left: 515px;
+top: 451px;
+}
+
+
+/* leaf8 */
+
+.leaf8{
+position: absolute;
+width: 96px;
+height: 119px;
+left: 672px;
+top: 451px;
+}
+
+
+/* leaf9 */
+
+.leaf9{
+position: absolute;
+width: 97px;
+height: 119px;
+left: 828px;
+top: 451px;
+}
+
+
+/* back */
+
+.back{
+position: absolute;
+width: 200px;
+height: 50px;
+left: 605px;
+top: 613px;
+
+border-radius: 50px;
+background-color: #3D6D5C;
+color: white;
+border: #3D6D5C;
+}

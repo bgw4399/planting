@@ -1,0 +1,113 @@
+/* 스마트 식물 관리 */
+
+.title{
+position: absolute;
+width: 141px;
+height: 24px;
+left: calc(50% - 141px/2 - 179.5px);
+top: calc(50% - 24px/2 - 187px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+white-space: nowrap;
+
+color: #3D6D5C;
+}
+
+
+/* name */
+
+.name{
+position: absolute;
+width: 500px;
+height: 50px;
+left: calc(50% - 500px/2);
+top: calc(50% - 50px/2 - 125px);
+
+font-family: 'Font Awesome 5 Free';
+
+
+background: #F4F5F7;
+border: #F4F5F7;
+}
+
+
+/* temp */
+
+.temp{
+position: absolute;
+width: 500px;
+height: 50px;
+left: calc(50% - 500px/2);
+top: calc(50% - 50px/2 - 50px);
+
+background: #F4F5F7;
+border: #F4F5F7;
+}
+
+
+/* humi */
+
+.humi{
+position: absolute;
+width: 500px;
+height: 50px;
+left: calc(50% - 500px/2);
+top: calc(50% - 50px/2 + 25px);
+
+background: #F4F5F7;
+border: #F4F5F7;
+}
+
+
+/* soil */
+
+.soil{
+position: absolute;
+width: 500px;
+height: 50px;
+left: calc(50% - 500px/2);
+top: calc(50% - 50px/2 + 100px);
+
+background: #F4F5F7;
+border: #F4F5F7;
+}
+
+
+/* save */
+
+.save{
+position: absolute;
+width: 180px;
+height: 50px;
+left: calc(50% - 200px/2 - 100px);
+top: calc(50% - 50px/2 + 175px);
+
+border-radius: 50px;
+
+background: #3D6D5C;
+border: #3D6D5C;
+color: white;
+}
+
+/* list */
+
+.list{
+position: absolute;
+width: 180px;
+height: 50px;
+left: calc(50% - 200px/2 + 100px);
+top: calc(50% - 50px/2 + 175px);
+
+border-radius: 50px;
+
+background: #3D6D5C;
+border: #3D6D5C;
+color: white;
+}

@@ -1,0 +1,194 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v2_2 {
+  /* 창 */
+  width: 100%;
+  height: 810px;
+  background: linear-gradient(rgba(182,68,68,1), rgba(61,109,92,0));
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_6 { 
+  /* 현재 ~의 상태는 */
+  width: 800px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 170px;
+  left: calc(50% - 800px/2);
+  font-family: 'Inter';
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v2_7 {
+  /* 상태 이미지 */
+  width: 146px;
+  height: 173px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 200px;
+  left: calc(50% - 146px/2);
+  font-family: 'Font Awesome 5 Free';
+  font-weight: Solid;
+  font-size: 150px;
+  opacity: 1;
+  text-align: center;
+}
+.temp {
+  font-family: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 110px;
+  text-align: center;
+  color: #FFFFFF;
+  position: absolute;
+  width: 96px;
+  height: 110px;
+  left: calc(40% - 96px/2);
+  top: 446px;
+}
+.humi {
+  font-family: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 110px;
+  text-align: center;
+  color: #FFFFFF;
+  position: absolute;
+  width: 96px;
+  height: 110px;
+  left: calc(50% - 96px/2);
+  top: 446px;
+}
+.soil {
+  font-family: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 110px;
+  text-align: center;
+  color: #FFFFFF;
+  position: absolute;
+  width: 96px;
+  height: 110px;
+  left: calc(60% - 96px/2);
+  top: 446px;
+}
+.point3 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 77px;
+  text-align: center;
+  color: #FFFFFF;
+  position: absolute;
+  width: 62px;
+  height: 77px;
+  left: calc(64% - 45px/2);
+  top: 498px;
+}
+.point2 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 77px;
+  text-align: center;
+  color: #FFFFFF;
+  position: absolute;
+  width: 62px;
+  height: 77px;
+  left: calc(52% - 45px/2);
+  top: 498px;
+}
+.point1 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 77px;
+  text-align: center;
+  color: #FFFFFF;
+  position: absolute;
+  width: 62px;
+  height: 77px;
+  left: calc(41% - 45px/2);
+  top: 498px;
+}
+
+.list {
+  background: #3D6D5C;
+  position: relative;
+  width: 180px;
+  height: 50px;
+  border-radius: 50px;
+  left: calc(44% - 200px/2);
+  top: 650px;
+  color: #FFFFFF;
+  border: #3D6D5C;
+}
+
+.delete {
+  background: #3D6D5C;
+  position: relative;
+  width: 180px;
+  height: 50px;
+  border-radius: 50px;
+  left: calc(46% - 200px/2);
+  top: 650px;
+  color: #FFFFFF;
+  border: #3D6D5C;
+}
+
+.tempNum {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  text-align: center;
+  left: calc(39% - 40px/2);
+  position: absolute;
+  width: 62px;
+  height: 77px;
+  top: 560px;
+  color: #FFFFFF;
+}
+
+.humiNum {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  text-align: center;
+  left: calc(49% - 40px/2);
+  position: absolute;
+  width: 62px;
+  height: 77px;
+  top: 560px;
+  color: #FFFFFF;
+}
+
+.soilNum {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  text-align: center;
+  left: calc(59% - 40px/2);
+  position: absolute;
+  width: 62px;
+  height: 77px;
+  top: 560px;
+  color: #FFFFFF;
+}
