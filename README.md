@@ -11,6 +11,8 @@
 ##  ARDUINO
 * 아두이노에서 센서를 이용해 현재 온도, 습도, 토양 습도 값을 측정한다.
 * 측정된 값들을 와이파이를 연결해 mongoDB로 데이터를 보내준다.
+![image](https://user-images.githubusercontent.com/104902657/199431982-08e87d05-4502-41b1-9edb-aabdb63dcab9.png)
+
 
 ##  WEB
 * 자신이 키우고자 하는 식물에 대한 정보를 저장한다.
